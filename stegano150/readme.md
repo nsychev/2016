@@ -1,6 +1,8 @@
 # Друг человека
 
 > Моя собака гуляла и нашла вот эту газету, но не хочет её отдавать. Я думаю, флаг в газете. Помогите его найти.
+>
+> [Attachment](https://github.com/upmlctf/2016/blob/master/stegano150/mydog.png)
 
 ## Write-up
 
