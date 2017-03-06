@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flag Getting Utility</title>
+    <script src="//code.jquery.com/jquery-latest.js"></script>
+    <script>
+function getMessage() {
+  $.get('/statictasks/web50/flag/', {}, function(data) {
+    alert(data);
+  });
+}
+    </script>
+  </head>
+  <body>
+  <h1>One button to flag</h1>
+  <button onclick="getMessage();">Get flag</button>
+</body>
+</html>
