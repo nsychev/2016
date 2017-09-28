@@ -1,7 +1,8 @@
-# UPML CTF 2016.7
+# UPML CTF 2016
 
-11 — 12 июля 2016 года |
-[Официальный сайт](https://ctf.upml.tech/2016/)
+11–12 июля 2016 года |
+[Официальный сайт](https://upmlctf.ru/) |
+**[Результаты](https://github.com/upmlctf/2016/blob/master/SCOREBOARD.md)**
 
 ## Таски
 * [Only two](https://github.com/upmlctf/2016/blob/master/crypto100/)
