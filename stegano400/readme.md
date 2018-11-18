@@ -2,7 +2,7 @@
 
 > Флаги всегда звучат красиво.... или нет?
 >
-> [Attachment](https://github.com/upmlctf/2016/blob/master/stegano400/sound.wav)
+> [Attachment](sound.wav)
 
 ## Write-up
 

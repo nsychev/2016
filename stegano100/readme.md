@@ -2,7 +2,7 @@
 
 > Интересно, ФСБ взламывает все возможные шифры?
 >
-> [Attachment](https://github.com/upmlctf/2016/blob/master/stegano100/file.pdf)
+> [Attachment](file.pdf)
 
 # Write-up
 

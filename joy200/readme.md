@@ -2,7 +2,7 @@
 
 > Говорят, у этого места очень хорошие отзывы. А Семену, похоже, не очень нравится.
 >
-> [Attachment](https://github.com/upmlctf/2016/blob/master/joy200/photo.jpg)
+> [Attachment](photo.jpg)
 
 ## Write-up
 Название таска подсказывает о чем-то связанном с географией. 

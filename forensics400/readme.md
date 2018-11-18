@@ -2,7 +2,7 @@
 
 > Я просто оставлю это здесь
 >
-> [Attachment](https://github.com/upmlctf/2016/blob/master/forensics400/file)
+> [Attachment](file)
 
 ## Write-up
 

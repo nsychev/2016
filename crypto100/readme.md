@@ -2,7 +2,7 @@
 
 > Почему так СЛОЖНА??! !?!? ! ??!? !! !!! ?!? ??? ?
 >
-> [Attachment](https://github.com/upmlctf/2016/blob/master/crypto100/empty)
+> [Attachment](empty)
 
 ## Write-up
 
